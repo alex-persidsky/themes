@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "AlexPers",
+    "twitter": "@alexxpers",
+    "github": "alex-persidsky"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "rgb(200,200,200)",
+    "backgroundColor": "rgb(0, 0, 0)",
+    "matchBackgroundColor": "rgb(0, 0, 0)",
+    "selection": {
+      "textColor": "rgb(255,255,255)",
+      "backgroundColor": "rgb(44, 49, 58)"
+    },
+    "description": {
+      "textColor": "rgb(200,200,200)",
+      "borderColor": "rgb(200,200,200)"
+    }
+  }
+}
